@@ -174,8 +174,8 @@ function EngineModel({
     <primitive
       object={model}
       scale={1}
-      position={[0, -0.2, 0]}
-      rotation={[0, 0, 0]}
+      position={[0, -0.65, 0]}
+      rotation={[0, Math.PI/2, 0]}
     />
   )
 }
