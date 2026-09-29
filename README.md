@@ -1,5 +1,6 @@
 # AADI-SHAKTI — The Shield of Indian Skies
-
+The GCS Dashboard is deployed at : 
+https://aadishakti-the-shield-of-indian-ski.vercel.app/
 
 ---
 
