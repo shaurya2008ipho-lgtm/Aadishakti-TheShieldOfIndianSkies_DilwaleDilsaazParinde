@@ -1,0 +1,4 @@
+qiskit==2.1.1
+qiskit-aer==0.17.1
+qiskit-machine-learning==0.8.3
+pennylane==0.42.1
