@@ -1,13 +1,5 @@
 # AADI-SHAKTI — The Shield of Indian Skies
 
-**AI-Enabled Real-Time Digital Twin System for Health Monitoring, Fault Prediction and Mission Reliability Enhancement of Aero-Piston Engines used in MALE UAVs**
-
-> **Smart India Hackathon 2026 — Problem Statement:** SIH26054  
-> **Theme:** Robotics and Drones  
-> **Category:** Software  
-> **Team:** INDIA'S TECHNO DEFENSE PANTHERS  
-> **Team ID:** 126462  
-> **Project:** AADI-SHAKTI — The Shield of Indian Skies
 
 ---
 
